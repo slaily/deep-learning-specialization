@@ -1,4 +1,4 @@
-# Neural-Networks-and-Deep-Learning
+# Deep Learning Specialization - Coursera
 
 * This is my work on Andrew Ng's specialization  "[***Deep Learning Specialization***](https://www.coursera.org/specializations/deep-learning)". The specialization consists of five courses: 
     * [***Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)  
